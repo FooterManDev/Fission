@@ -5,4 +5,4 @@ This was made when using Swing just got unbearable. It's old, has no Kotlin feat
 
 Fission is basically a Swing / AWT wrapper sort of like Compose. It uses [JetBrain's Skiko](https://github.com/JetBrains/skiko), Kotlin, plus some extra libraries for stuff like SVG support.
 
-The goal of Fission is to be easy to use, not be such a pain to use, and include modern features. It is specifically targetting JVM for Desktop platforms, there is no effort to develop for mobile platforms, JavaScript, WebAssembly or other Kotlin Native platforms.
+The goal of Fission is to be easy to use, and include modern features. It is specifically targetting JVM for Desktop platforms, there is no effort to develop for mobile platforms, JavaScript, WebAssembly or other Kotlin Native platforms.
